@@ -1,1 +1,1 @@
-# SistemaControleLojaEletronicos---C
+# SistemaControleLojaEletronicos-C
